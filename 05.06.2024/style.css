@@ -1,0 +1,52 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+footer {
+  background-color: aqua;
+  color: red;
+  text-align: center;
+  padding: 1rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-size: 40px;
+}
+nav ul li {
+  display: inline;
+  list-style: none;
+  margin: 100px;
+}
+nav ul li a{
+    display: inline;
+    list-style: none;
+}
+
+section{
+
+}
+
+
+.kare{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  padding: 10px;
+  margin-left: 569px;
+  align-items: center;
+}
+.daire{
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+  background-color: purple;
+  border-radius: 100px;
+  
+}
+.toplam{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 90vh;
+}
