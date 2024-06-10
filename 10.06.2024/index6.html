@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>(10.06.2024)2.Ders</title>
+    <style>
+        img{
+            width: 250px;
+            height: 250px;
+        }
+    </style>
+  </head>
+  <body>
+    <div id="deger1">İsim :</div>
+    <div id="deger2">Meslek :</div>
+    <button
+      onclick="document.getElementById('deger1').textContent='TARIK DEMİR'"
+    >
+      İsmi Göster
+    </button>
+
+    <button
+      onclick="document.getElementById('deger2').textContent='Full Stack .NET Developer'"
+    >
+      Mesleği Göster
+    </button>
+
+
+
+    <hr>
+
+    <img id="resim"  />
+    <button onclick="document.getElementById('resim').src ='resim.webp'">
+      1.Resmi Aç
+    </button>
+    <button onclick="document.getElementById('resim').src ='resim2.jpg'">
+        2.Resmi Aç
+      </button>
+
+      <hr>
+      <img src="resim2.jpg" id="resim2" alt="">
+
+      <button onclick="document.getElementById('resim2').src='resim.webp'">Resmi Değiştir</button>
+  </body>
+</html>

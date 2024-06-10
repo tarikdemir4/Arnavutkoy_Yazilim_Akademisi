@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>(10.06.2024)3.Ders</title>
+  <script>
+    function addText() {
+      var text = document.getElementById("text").innerText;
+      text += "Hello World!";
+      document.getElementById("text").innerText = text;
+    }
+
+    function count() {
+      var count = document.getElementById("count").innerText;
+      count++;
+      document.getElementById("count").innerText = count;
+    }
+    function count(){
+        var count=document.getElementById
+    }
+
+    function clearText() {
+      var sayi = 0;
+      document.getElementById("count").innerText = sayi;
+    }
+
+    function additem(){
+        var additem=document.getElementById("additem").innerh;
+        additem+="<button>Item</button>";
+        document.getElementById("additem").innerHTML=additem;
+    }
+  </script>
+</head>
+<body>
+  <div id="text"></div>
+  <br />
+  <button id="button" onclick="loadText()">Get Text</button>
+  <hr />
+  <button onclick="addText()">Add Text</button>
+  <hr />
+  <button onclick="count()">Count</button>
+  <hr />
+  <button onclick="clearText()">Clear</button>
+  <hr />
+  <h1 id="count">0</h1>
+  <hr>
+  <button id="button" onclick="additem()">Add</button>
+  <div id="additem" ></div>
+</body>
+</html>

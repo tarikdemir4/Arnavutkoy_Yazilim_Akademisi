@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>(10.06.2024)3.Ders</title>
+    <script>
+      function plus() {
+        var count = document.getElementById("count").innerText;
+        count = parseInt(count) + 2;
+
+        document.getElementById("count").innerText = count;
+      }
+
+      function decrase() {
+        var count = document.getElementById("count").innerText;
+        count = parseInt(count) - 2;
+        document.getElementById("count").innerText = count;
+      }
+
+      function reset() {
+        var sayi=document.getElementById("count").innerText;
+        var sayi = 0;
+        document.getElementById("count").innerText = sayi;
+      }
+    </script>
+  </head>
+  <body>
+    <button onclick="plus()">Yükselt</button>
+    <button onclick="decrase()">Azalt</button>
+    <button onclick="reset()">Reset</button>
+    <hr />
+    <h1 id="count">0</h1>
+  </body>
+</html>
