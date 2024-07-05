@@ -3,58 +3,55 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>(11.06.2024)3.Ders</title>
-    <script src="script4.js"></script>
-    <link rel="stylesheet" href="style4.css" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style2.css" />
   </head>
   <body>
     <div class="container">
-      <div class="item" >
-        <button onclick="hesapmakinesi()">Basit Hesap Makinesi</button> <br />
-        <br />
-        <div id="hesapmakinesi" class="hesap">
-          <label >Hesap Makinesi</label> <br /><br />
-          <input type="text" id="inputhesap" /> <br /><br /><br />
-          <button onclick="hesapla()">Hesapla</button><br><br><br>
+      <div class="item">
+        <button onclick="hesapmakinasi()">Basit Hesap Makinası</button>
+        <div id="hesapmakinasi" class="hesap">
+          <label>Hesap Makinası</label><br />
+          <input type="text" id="inputhesap" /><br /><br />
+          <button onclick="hesapla()">Hesapla</button>
         </div>
       </div>
       <div class="item">
-        <button onclick="uyeekle()">Üye Ekle</button><br><br>
+        <button onclick="uyeekle()">Üye Ekle</button>
         <ul id="uyeler" class="uyeler"></ul>
       </div>
-
       <div class="item">
         <button class="btn">Tıklayınız</button>
-      </div><br>
+        <b>Hava Çok Sıcak</b>
+      </div>
       <div class="item">
-        <input type="text" class="display" /><br><br>
+        <input type="text" class="display" readonly />
         <div class="btn-group">
-            <button class="button">1</button>
-            <button class="button">2</button>
-            <button class="button">3</button>
-            <button class="button">/</button>
-            <br />
-            <button class="button">4</button>
-            <button class="button">5</button>
-            <button class="button">6</button>
-            <button class="button">*</button>
-            <br />
-            <button class="button">7</button>
-            <button class="button">8</button>
-            <button class="button">9</button>
-            <button class="button">-</button>
-            <br />
-            <button class="button">C</button>
-            <button class="button">0</button>
-            <button class="button">=</button>
-            <button class="button">+</button>
-            <br />
-            <button class="button">00</button>
-            <button class="button">.</button>
-            <button class="button">(</button>
-            <button class="button">)</button>
+          <button class="button">1</button>
+          <button class="button">2</button>
+          <button class="button">3</button>
+          <button class="button">/</button>
+          <br />
+          <button class="button">4</button>
+          <button class="button">5</button>
+          <button class="button">6</button>
+          <button class="button">*</button>
+          <br />
+          <button class="button">7</button>
+          <button class="button">8</button>
+          <button class="button">9</button>
+          <button class="button">-</button>
+          <br />
+          <button class="button">C</button>
+          <button class="button">0</button>
+          <button class="button">=</button>
+          <button class="button">+</button>
+          <br />
+          <button class="button">00</button>
+          <button class="button">.</button>
+          <button class="button">(</button>
+          <button class="button">)</button>
         </div>
-
       </div>
       <div class="item">
         <button class="btn-basla">Başla</button>
@@ -100,11 +97,13 @@
               <td>İsim</td>
               <td>Kullanıcı Adı</td>
               <td>Email</td>
+              <td>Telefon</td>
             </tr>
           </thead>
           <tbody class="alldata3"></tbody>
         </table>
       </div>
     </div>
+    <script src="script2.js"></script>
   </body>
 </html>
