@@ -51,15 +51,18 @@ on(Product.Id=Stock.ProductId) --Ürünlerin Id,Name, Price, CategoryName,Stock de
 
 select
 Category.Name,
-Stock.Piece,
-SUM(Piece)
+SUM(Stock.Piece) as ToplamUrunAdedi ,
+SUM(Stock.Piece*Product.Price) as ToplamTutar
 from Product
 inner join Category
 on(Product.CategoryId=Category.Id)
 inner join Stock
-on(Product.Id=Stock.ProductId) 
+on(Product.Id=Stock.ProductId)  Group by Category.Name
 
 select SUM(Price) as 'Bilgisayarlarýn Toplam Tutarý'  from Product where CategoryId=2
+
+
+
 select Category.Name,
 SUM(Id) as ToplamUrunAdedi
 from Category Group by Category.Name--Ürünleri kategorilerine göre gruplama,hangi kategoriler var listeleme yapar
