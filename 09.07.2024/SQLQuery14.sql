@@ -1,0 +1,1 @@
+--Random--Rastgele sayý üretimi kullanýmý 
