@@ -1,13 +1,11 @@
-﻿using System;
-
-namespace SinifListesi
+﻿namespace SinifListesi
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("------------------------------------------------------------------------------------------------------");
-            Console.WriteLine("Sınıf Uygulamasına Hoş Geldiniz... \nDevam etmek için lütfen bir tuşa basınız.");
+            Console.WriteLine("Sınıf Uygulamasına Hoş Geldiniz... \nDevam etmek için lütfen bir tuşa basınız...");
             Console.WriteLine("------------------------------------------------------------------------------------------------------");
 
             Console.ReadLine();
@@ -23,13 +21,13 @@ namespace SinifListesi
 
             for (int i = 0; i < ozellikler.Length; i++)
             {
-                Console.Write((i + 1) + ". özelliğin adını giriniz: ");
+                Console.Write((i + 1) + ". Özelliğin Adını Giriniz: ");
                 ozellikler[i] = Console.ReadLine();
             }
 
             for (int i = 0; i < ogrenci; i++)
             {
-                Console.WriteLine("\nÖğrenci " + (i + 1) + " 'in bilgilerini giriniz:");
+                Console.WriteLine("\nÖğrenci " + (i + 1) + " 'in Bilgilerini Giriniz:");
                 for (int k = 0; k < ozellik; k++)
                 {
                     Console.Write(ozellikler[k] + ": ");
