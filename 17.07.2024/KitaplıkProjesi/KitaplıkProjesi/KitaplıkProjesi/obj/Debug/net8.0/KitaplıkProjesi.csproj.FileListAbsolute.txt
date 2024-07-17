@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\net8.0\KitaplıkProjesi.exe
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\net8.0\KitaplıkProjesi.deps.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\net8.0\KitaplıkProjesi.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\net8.0\KitaplıkProjesi.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\bin\Debug\net8.0\KitaplıkProjesi.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\refint\KitaplıkProjesi.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\KitaplıkProjesi.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Proje\KitaplıkProjesi\KitaplıkProjesi\obj\Debug\net8.0\ref\KitaplıkProjesi.dll

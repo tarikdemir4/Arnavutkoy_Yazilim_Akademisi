@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\bin\Debug\net8.0\2boyutludiziler.exe
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\bin\Debug\net8.0\2boyutludiziler.deps.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\bin\Debug\net8.0\2boyutludiziler.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\bin\Debug\net8.0\2boyutludiziler.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\bin\Debug\net8.0\2boyutludiziler.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\refint\2boyutludiziler.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\2boyutludiziler.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Yeni klasör\2boyutludiziler\2boyutludiziler\obj\Debug\net8.0\ref\2boyutludiziler.dll

@@ -4,7 +4,6 @@
 Kategorisi telefon olan 
 fiyatý 50000den yuksek
 adedi 10dan yuksek olan ürünleri listeyiniz
-
 cýktý:Name Price CategoryName Piece
 */
 select Product.Name,

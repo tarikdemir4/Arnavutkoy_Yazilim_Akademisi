@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.exe
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.deps.json
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.dll
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\bin\Debug\net8.0\Degiskenler.pdb
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.dll
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\refint\Degiskenler.dll
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.pdb
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\Degiskenler.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\16.07.2024\Degiskenler\Degiskenler\obj\Debug\net8.0\ref\Degiskenler.dll

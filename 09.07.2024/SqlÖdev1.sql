@@ -22,22 +22,20 @@ declare @RandomChars4 CHAR(1)
 declare @RandomChars5 CHAR(1)
 
 
-set @RandomChars1 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 AS INT), 1)
-set @RandomChars2 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 AS INT), 1)
-set @RandomChars3 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 AS INT), 1)
-set @RandomChars4 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 AS INT), 1)
-set @RandomChars5 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 AS INT), 1)
+set @RandomChars1 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 as int), 1)
+set @RandomChars2 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 as int), 1)
+set @RandomChars3 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 as int), 1)
+set @RandomChars4 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 as int), 1)
+set @RandomChars5 = SUBSTRING(@Alphabet, CAST(FLOOR(RAND() * LEN(@Alphabet)) + 1 as int), 1)
 
 declare @Code nvarchar(12)
-set @Code = 'TD49958Ugzcd'
+set @Code = 'TD' + CAST(FLOOR(RAND() * 9 * 10000 + 10000) as nvarchar(12))
+                           + @RandomChars1 
+                           + @RandomChars2 
+                           + @RandomChars3 
+                           + @RandomChars4 
+                           + @RandomChars5
 
-DECLARE  @ExistingCode int
-
-select @ExistingCode =Count(*) from RandomCode where Code=@Code
-if @ExistingCode=0 
-begin
-  print 'Bu kod zaten var,yeni kod üretilecek'
-end
 
 insert into RandomCode (Code) values (@Code)
 select * from RandomCode

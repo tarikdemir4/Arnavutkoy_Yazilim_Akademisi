@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\bin\Debug\net8.0\Loopexamples.exe
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\bin\Debug\net8.0\Loopexamples.deps.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\bin\Debug\net8.0\Loopexamples.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\bin\Debug\net8.0\Loopexamples.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\bin\Debug\net8.0\Loopexamples.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\refint\Loopexamples.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\Loopexamples.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\Loopexamples\Loopexamples\obj\Debug\net8.0\ref\Loopexamples.dll

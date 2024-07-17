@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\bin\Debug\net8.0\hocanınyaptıgı.exe
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\bin\Debug\net8.0\hocanınyaptıgı.deps.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\bin\Debug\net8.0\hocanınyaptıgı.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\bin\Debug\net8.0\hocanınyaptıgı.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\bin\Debug\net8.0\hocanınyaptıgı.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\refint\hocanınyaptıgı.dll
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.pdb
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\hocanınyaptıgı.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\17.07.2024\hocanın yaptıgı\hocanınyaptıgı\hocanınyaptıgı\obj\Debug\net8.0\ref\hocanınyaptıgı.dll
