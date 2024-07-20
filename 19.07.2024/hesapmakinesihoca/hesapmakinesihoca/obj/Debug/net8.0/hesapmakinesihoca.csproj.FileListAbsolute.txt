@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\bin\Debug\net8.0\hesapmakinesihoca.exe
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\bin\Debug\net8.0\hesapmakinesihoca.deps.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\bin\Debug\net8.0\hesapmakinesihoca.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\bin\Debug\net8.0\hesapmakinesihoca.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\bin\Debug\net8.0\hesapmakinesihoca.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\refint\hesapmakinesihoca.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\hesapmakinesihoca.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\hesapmakinesihoca\hesapmakinesihoca\obj\Debug\net8.0\ref\hesapmakinesihoca.dll

@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\bin\Debug\net8.0\ProductProject.exe
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\bin\Debug\net8.0\ProductProject.deps.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\bin\Debug\net8.0\ProductProject.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\bin\Debug\net8.0\ProductProject.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\bin\Debug\net8.0\ProductProject.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\refint\ProductProject.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ProductProject.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\ProductProject\ProductProject\obj\Debug\net8.0\ref\ProductProject.dll

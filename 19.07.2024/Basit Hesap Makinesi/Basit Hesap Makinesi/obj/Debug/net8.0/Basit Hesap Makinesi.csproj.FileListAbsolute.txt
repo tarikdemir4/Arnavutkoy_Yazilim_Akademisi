@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.exe
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.deps.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\bin\Debug\net8.0\Basit Hesap Makinesi.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\refint\Basit Hesap Makinesi.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\Basit Hesap Makinesi.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\Basit Hesap Makinesi\Basit Hesap Makinesi\obj\Debug\net8.0\ref\Basit Hesap Makinesi.dll

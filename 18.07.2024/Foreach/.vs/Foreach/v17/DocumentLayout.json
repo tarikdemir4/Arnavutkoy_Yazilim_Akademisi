@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\Foreach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C90C0D7A-F592-4AA5-A695-225721323364}|..\\WhileOrnekHesapMakinesi\\WhileOrnekHesapMakinesi.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\18.07.2024\\whileornekhesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D2356EE-992F-4DC8-8E1D-66616FD24BF4}|While\\While.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\18.07.2024\\foreach\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D2356EE-992F-4DC8-8E1D-66616FD24BF4}|While\\While.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65098140-2E6E-474D-9464-6BD10752C44B}|Foreach\\Foreach.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\18.07.2024\\foreach\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65098140-2E6E-474D-9464-6BD10752C44B}|Foreach\\Foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\WhileOrnekHesapMakinesi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WhileOrnekHesapMakinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\WhileOrnekHesapMakinesi\\Program.cs",
+              "RelativeToolTip": "..\\WhileOrnekHesapMakinesi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:38:51.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\Foreach\\While\\Program.cs",
+              "RelativeDocumentMoniker": "While\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\Foreach\\While\\Program.cs",
+              "RelativeToolTip": "While\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:36:24.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\Foreach\\Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\18.07.2024\\Foreach\\Foreach\\Program.cs",
+              "RelativeToolTip": "Foreach\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:05:21.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1871,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2548,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

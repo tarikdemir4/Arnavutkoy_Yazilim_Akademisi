@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\bin\Debug\net8.0\ConsoleProperties.exe
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\bin\Debug\net8.0\ConsoleProperties.deps.json
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\bin\Debug\net8.0\ConsoleProperties.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\bin\Debug\net8.0\ConsoleProperties.dll
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\bin\Debug\net8.0\ConsoleProperties.pdb
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.dll
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\refint\ConsoleProperties.dll
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.pdb
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ConsoleProperties.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\ConsoleProperties\ConsoleProperties\obj\Debug\net8.0\ref\ConsoleProperties.dll

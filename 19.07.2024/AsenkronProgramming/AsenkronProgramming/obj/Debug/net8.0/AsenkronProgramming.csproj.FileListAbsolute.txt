@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\bin\Debug\net8.0\AsenkronProgramming.exe
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\bin\Debug\net8.0\AsenkronProgramming.deps.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\bin\Debug\net8.0\AsenkronProgramming.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\bin\Debug\net8.0\AsenkronProgramming.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\bin\Debug\net8.0\AsenkronProgramming.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\refint\AsenkronProgramming.dll
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.pdb
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\AsenkronProgramming.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\19.07.2024\AsenkronProgramming\AsenkronProgramming\obj\Debug\net8.0\ref\AsenkronProgramming.dll

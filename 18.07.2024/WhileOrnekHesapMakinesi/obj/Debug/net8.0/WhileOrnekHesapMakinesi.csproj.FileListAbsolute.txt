@@ -1,0 +1,4 @@
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\WhileOrnekHesapMakinesi\obj\Debug\net8.0\WhileOrnekHesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\WhileOrnekHesapMakinesi\obj\Debug\net8.0\WhileOrnekHesapMakinesi.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\WhileOrnekHesapMakinesi\obj\Debug\net8.0\WhileOrnekHesapMakinesi.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\18.07.2024\WhileOrnekHesapMakinesi\obj\Debug\net8.0\WhileOrnekHesapMakinesi.csproj.CoreCompileInputs.cache
