@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\bin\Debug\net8.0\C# Basit Algoritma soru cozumleri.exe
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\bin\Debug\net8.0\C# Basit Algoritma soru cozumleri.deps.json
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\bin\Debug\net8.0\C# Basit Algoritma soru cozumleri.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\bin\Debug\net8.0\C# Basit Algoritma soru cozumleri.dll
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\bin\Debug\net8.0\C# Basit Algoritma soru cozumleri.pdb
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.dll
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\refint\C# Basit Algoritma soru cozumleri.dll
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.pdb
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\C# Basit Algoritma soru cozumleri.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\deneme\C# Basit Algoritma soru cozumleri\C# Basit Algoritma soru cozumleri\obj\Debug\net8.0\ref\C# Basit Algoritma soru cozumleri.dll

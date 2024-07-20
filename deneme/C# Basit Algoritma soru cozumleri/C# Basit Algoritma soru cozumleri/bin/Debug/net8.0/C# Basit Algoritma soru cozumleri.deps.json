@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# Basit Algoritma soru cozumleri/1.0.0": {
+        "runtime": {
+          "C# Basit Algoritma soru cozumleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Basit Algoritma soru cozumleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
