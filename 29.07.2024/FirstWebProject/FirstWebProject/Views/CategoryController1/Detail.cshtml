@@ -1,0 +1,21 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Name</h1>
+<hr />
+
+<a asp-controller="Category" asp-action="Index" class="btn btn-warning btn-sm">Back To Category</a>
+<div class="row">
+    <div class="card col-4">
+        <div class="card-body">
+            <h3>Id=@Model.Id</h3>
+            <h3>@Model.Name</h3>
+            <span class="badge bg-@(Model.Isstatus?"success":"danger")>
+                @(Model.Isstatus ? "Active":"Passive")
+            </span>
+        </div>
+    </div>
+</div>
+

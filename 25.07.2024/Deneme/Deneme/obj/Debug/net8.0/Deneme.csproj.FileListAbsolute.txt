@@ -1,0 +1,14 @@
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\bin\Debug\net8.0\Deneme.exe
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\bin\Debug\net8.0\Deneme.deps.json
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\bin\Debug\net8.0\Deneme.runtimeconfig.json
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\bin\Debug\net8.0\Deneme.dll
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\bin\Debug\net8.0\Deneme.pdb
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfoInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.AssemblyInfo.cs
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.dll
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\refint\Deneme.dll
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.pdb
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\Deneme.genruntimeconfig.cache
+C:\Users\demir\Desktop\Arnavütköy\25.07.2024\Deneme\Deneme\obj\Debug\net8.0\ref\Deneme.dll

@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\views\\categorycontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\views\\categorycontroller1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\views\\categorycontroller1\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\views\\categorycontroller1\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\views\\categorycontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\views\\categorycontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\migrations\\20240730083949_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\migrations\\20240730083949_createdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|c:\\users\\demir\\desktop\\arnav\u00FCtk\u00F6y\\29.07.2024\\firstwebproject\\firstwebproject\\models\\abstractmodels\\commonprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3C36CC-C008-456D-AC04-2C6077217A3B}|FirstWebProject\\FirstWebProject.csproj|solutionrelative:firstwebproject\\models\\abstractmodels\\commonprop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 699,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Create.cshtml",
+              "RelativeDocumentMoniker": "FirstWebProject\\Views\\CategoryController1\\Create.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Create.cshtml",
+              "RelativeToolTip": "FirstWebProject\\Views\\CategoryController1\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:42:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Detail.cshtml",
+              "RelativeDocumentMoniker": "FirstWebProject\\Views\\CategoryController1\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Detail.cshtml",
+              "RelativeToolTip": "FirstWebProject\\Views\\CategoryController1\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:28:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "FirstWebProject\\Views\\CategoryController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Views\\CategoryController1\\Index.cshtml",
+              "RelativeToolTip": "FirstWebProject\\Views\\CategoryController1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-30T11:28:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FirstWebProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:16:38.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstWebProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\appsettings.json",
+              "RelativeToolTip": "FirstWebProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T08:18:38.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Data\\DataContext.cs",
+              "RelativeToolTip": "FirstWebProject\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:06:06.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\Product.cs",
+              "RelativeToolTip": "FirstWebProject\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:18:45.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\Category.cs",
+              "RelativeToolTip": "FirstWebProject\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:16:22.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommonProp.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\AbstractModels\\CommonProp.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Models\\AbstractModels\\CommonProp.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Models\\AbstractModels\\CommonProp.cs",
+              "RelativeToolTip": "FirstWebProject\\Models\\AbstractModels\\CommonProp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T07:14:20.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController1.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Controllers\\CategoryController1.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Controllers\\CategoryController1.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Controllers\\CategoryController1.cs*",
+              "RelativeToolTip": "FirstWebProject\\Controllers\\CategoryController1.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:16:30.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240730083949_CreateDb.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Migrations\\20240730083949_CreateDb.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Migrations\\20240730083949_CreateDb.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Migrations\\20240730083949_CreateDb.cs",
+              "RelativeToolTip": "FirstWebProject\\Migrations\\20240730083949_CreateDb.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:40:22.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "FirstWebProject\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\Arnav\u00FCtk\u00F6y\\29.07.2024\\FirstWebProject\\FirstWebProject\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "FirstWebProject\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T08:40:29.272Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
